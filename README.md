@@ -1,5 +1,8 @@
 # Job Tracker Frontend
 
+![WhatsApp Image 2025-04-17 at 12 23 58_904e3722](https://github.com/user-attachments/assets/ab90f7b3-4c4e-4ed6-a02e-a46e40b8f5fb)
+
+
 React frontend application for managing job applications with a modern Material-UI interface.
 
 ## Technology Stack
